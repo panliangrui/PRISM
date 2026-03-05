@@ -40,7 +40,7 @@
 - [Feature Preprocessing](#Feature-Preprocessing)
 - [Feature Extraction](#Feature-Extraction)
 - [Models](#Train-models)
-- [Test WSI](#Test WSI)
+- [Interpretability Analysis](#Interpretability Analysis)
 - [Datastes](#Datastes)
 - [Installation](#Installation)
 - [License](#license)
