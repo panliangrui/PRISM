@@ -121,10 +121,15 @@ Figure 2. Workflow for constructing and validating the PRISM framework using mul
 
 
 
-**Train WSI**
+**Interpretability Analysis**
 ```markdown
-python train_clam_mb.py
+python hetmap.py
 ```
+<a href="(https://github.com/panliangrui/PRISM/blob/main/figure5.jpg)">
+    <img src="https://github.com/panliangrui/PRISM/blob/main/figure5.jpg" width="912" height="1026" />
+  </a>
+
+
 
 ## Datastes
 
