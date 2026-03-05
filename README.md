@@ -121,7 +121,7 @@ Figure 2. Workflow for constructing and validating the PRISM framework using mul
 
 
 
-**Interpretability Analysis**
+##Interpretability Analysis
 ```markdown
 python hetmap.py
 ```
