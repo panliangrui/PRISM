@@ -113,8 +113,8 @@ python constract_graph.py
 ## Models
 **DAEM**
 
-  <a href="(https://github.com/panliangrui/MAME/blob/main/Figure%201.jpg)">
-    <img src="https://github.com/panliangrui/MAME/blob/main/Figure%201.jpg" width="912" height="1026" />
+  <a href="(https://github.com/panliangrui/PRISM/blob/main/figure2.jpg)">
+    <img src="https://github.com/panliangrui/PRISM/blob/main/figure2.jpg" width="912" height="1026" />
   </a>
 
 Figure 2. Workflow for constructing and validating the PRISM framework using multicenter histopathological image data to predict response to targeted therapy, immunotherapy, and chemotherapy in lung cancer. a. procurement of biopsy or surgical resection specimens from patients with lung cancer; b. histopathological image acquisition and diagnostic assessment; c. digitization of glass slides into WSIs; d. WSI preprocessing. e. Schematic illustration of the PRISM framework integrating multiscale tissue representations and TME features to predict therapeutic response across targeted therapy, immunotherapy, and chemotherapy. f. Detailed architecture of the advection-diffusion graph Transformer module. g. Interpretability analysis of the multimodal model. h. Sample distribution across multicenter cohorts receiving targeted therapy, immunotherapy, and chemotherapy. 5-fold CV, internal five-fold cross-validation; IG-5CV, internal grouped five-fold cross-validation; EMCV, external multicenter validation.
