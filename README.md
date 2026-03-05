@@ -29,7 +29,7 @@
   </div>
 </div>
 
-# Multimodal Multiscale Attention-Based Learning on Multicenter Lung Cancer CT and Histopathology Images Enhances STAS Diagnosis: A Multicenter Study
+# A Tumor Microenvironment-aware Multiscale Advection-diffusion Hypergraph Transformer for Predicting Targeted, Immunotherapy and Chemotherapy Response in Lung Cancer
 
 ## Table of Contents
 
