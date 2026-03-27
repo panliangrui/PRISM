@@ -42,6 +42,7 @@
 - [Models](#Train-models)
 - [Interpretability Analysis](#Interpretability Analysis)
 - [Datastes](#Datastes)
+- [Clinical Application](#Clinical Application)
 - [Installation](#Installation)
 - [License](#license)
 
@@ -139,6 +140,12 @@ Data access is available upon request via email(lip141772@gmail.com).
 ```
 This study was designed as a retrospective, multicenter investigation conducted across four clinical centers in China between December 2020 and November 2025. The study population comprised patients with histologically confirmed lung cancer. Patients with lung adenocarcinoma underwent NGS testing and received ICI-based therapy, whereas patients with lung squamous cell carcinoma received ICI treatment without NGS-guided stratification. In total, 7,082 patients were initially screened. Pre-treatment formalin-fixed, paraffin-embedded (FFPE) whole-slide histopathological images were collected for model development and validation. After applying eligibility criteria, 1,130 patients were included in the final analysis, and 1,351 individuals were excluded for not meeting study requirements (Figure 1, Supplementary Table 1). The Second Xiangya Hospital of Central South University (SXY-CSU) cohort included patients treated between December 2020 and November 2025, comprising 343 patients receiving targeted therapy, 228 receiving immunotherapy-related regimens, and 32 receiving chemotherapy. The Xiangya Hospital of Central South University (XY-CSU) cohort enrolled patients treated between September 2022 and April 2025, including 84 patients receiving targeted therapy, 90 receiving immunotherapy, and 46 receiving chemotherapy. The Hunan Cancer Hospital (HCH) cohort included patients treated between January 2021 and January 2025, comprising 31 targeted therapy cases, 184 immunotherapy cases, and 71 chemotherapy cases. The Hunan Provincial People`s Hospital (HNNH) cohort enrolled patients treated between November 2021 and December 2025, including 6 targeted therapy cases, 28 immunotherapy cases, and 2 chemotherapy cases. Inclusion criteria were as follows: (1) age≥18 years with pathologically confirmed non-small cell lung cancer (NSCLC); (2) availability of high-quality pre-treatment FFPE whole-slide images (WSIs) suitable for digital analysis, without significant artifacts such as folding, blurring, or staining abnormalities; (3) receipt of at least one line of standard first-line clinical treatment, including targeted therapy, immunotherapy, chemotherapy, or combination regimens; and (4) complete and sufficient clinical information documented in electronic medical records, including treatment regimen and response evaluation outcomes. Exclusion criteria included incomplete clinical records or absence of histopathological images required for multiscale analysis; receipt of investigational therapies outside standard-of-care regimens prior to acquisition of baseline pathological images; presence of concurrent active malignancies other than NSCLC that could confound treatment evaluation; severe comorbidities deemed by investigators to interfere with study assessment or outcomes (such as significant cardiac, hepatic, or renal dysfunction); and pregnancy or lactation. As illustrated in Figure 2, a total of 12 cohorts derived from four centers, stratified by targeted therapy, immunotherapy, and chemotherapy, were used to develop and evaluate the PRISM model for predicting treatment response.
 
+## Clinical Application
+<a href="(https://github.com/panliangrui/PRISM/blob/main/figure2.jpg)">
+    <img src="https://github.com/panliangrui/PRISM/blob/main/figure2.jpg" width="912" height="1026" />
+  </a>
+
+Figure 2. Workflow for constructing and validating the PRISM framework using multicenter histopathological image data to predict response to targeted therapy, immunotherapy, and chemotherapy in lung cancer.
 
 ## Installation
 - Linux (Tested on Ubuntu 18.04)
